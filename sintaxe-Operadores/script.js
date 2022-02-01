@@ -41,3 +41,5 @@ function criaSegundaFrase(num1, num2){
 }
 
 console.log(comparaNumeros(10,12));
+
+
