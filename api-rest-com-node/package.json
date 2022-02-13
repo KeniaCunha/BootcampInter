@@ -1,0 +1,17 @@
+{
+  "name": "ms-autenticacao",
+  "version": "1.0.0",
+  "description": "Microserviço criado durante o bootcamp Dio",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "author": "Kenia Cunha",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "typescript": "^4.5.5"
+  }
+}
